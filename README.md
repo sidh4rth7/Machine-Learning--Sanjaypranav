@@ -1,4 +1,4 @@
-# Machine-Learning--Sanjaypranav
+# Machine-Learning-- SIDHARTH
 
 ##*1)Supervised Learning
 
